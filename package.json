@@ -1,0 +1,23 @@
+{
+  "name": "blurimage",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "image-clipper": "^0.4.4",
+    "image-size": "^0.8.2",
+    "jimp": "^0.8.4",
+    "merge-img": "^2.1.3",
+    "morgan": "~1.9.0",
+    "nocors": "^0.0.1"
+  }
+}
