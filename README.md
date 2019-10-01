@@ -12,4 +12,4 @@ Install the packages in the package.json
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br>
-Open [http://localhost:3000/blurImage] to call the APi for blurring image.
+Open [http://localhost:3000/blurImage](http://localhost:3000/blurImage) to call the APi for blurring image.
